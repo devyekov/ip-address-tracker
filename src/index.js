@@ -56,7 +56,7 @@ import IconLocation from './images/icon-location.svg';
             accessToken: process.env.MAP_BOX_ACCESS_TOKEN
         }).addTo(mymap);
 
-        SearchIp('192.212.174.101');
+        // SearchIp('192.212.174.101');
 
     }
 
